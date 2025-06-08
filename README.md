@@ -28,13 +28,4 @@ This project is an interactive Power BI dashboard that explores trends in online
 
 [View on Power BI](https://app.powerbi.com/links/8cQOFp3Qsb?ctid=452a0083-a6e2-46aa-8082-480002eeb4b5&pbi_source=linkShare)
 
-
- 📸 Dashboard Preview
-
-(Add images/screenshots here)
-
-
----
-
-
 Feel free to explore or suggest improvements!
